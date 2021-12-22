@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#main{
+    margin: 1%;
+}
+
+button{
+    border: 0;
+    background-color: coral;
+    margin-right: 1%;
+    width: 100px;
+    height: 20px;
+}
+
+textarea{
+    width: 50%;
+    height: 200px;
+}
